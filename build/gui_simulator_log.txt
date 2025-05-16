@@ -1,0 +1,16 @@
+[2025-05-15 21:14:56.062] [MarketReplaySim] [3006180] [info] Logger initialized. Console Level: info, File Level: debug, Async: true
+[2025-05-15 21:14:56.062] [MarketReplaySim] [3006180] [info] Simulation thread started via GUI for data: ../data/sample_ticks.csv
+[2025-05-15 21:14:56.062] [MarketReplaySim] [3006180] [info] MetricsCollector initialized. Trades: gui_sim_trades.csv, Latency: gui_sim_latency.csv, PnL: gui_sim_pnl.csv
+[2025-05-15 21:14:56.062] [MarketReplaySim] [3006180] [info] Dispatcher: Initialized. Data: ../data/sample_ticks.csv, Latency configured.
+[2025-05-15 21:14:56.062] [MarketReplaySim] [3006180] [info] Dispatcher: Added strategy 'BasicStrat_GUI_1'
+[2025-05-15 21:14:56.062] [MarketReplaySim] [3006180] [info] Dispatcher: Starting thread for strategy 'BasicStrat_GUI_1'
+[2025-05-15 21:14:56.062] [MarketReplaySim] [3006180] [info] Dispatcher: Loading historical data from ../data/sample_ticks.csv
+[2025-05-15 21:14:56.062] [MarketReplaySim] [3006182] [info] Strategy Thread [BasicStrat_GUI_1]: Starting.
+[2025-05-15 21:14:56.062] [MarketReplaySim] [3006180] [critical] Failed to open CSV file: ../data/sample_ticks.csv
+[2025-05-15 21:14:56.062] [MarketReplaySim] [3006182] [info] Strategy [BasicStrat_GUI_1]: Initialized at sim time -9223372036854775808
+[2025-05-15 21:14:56.063] [MarketReplaySim] [3006180] [info] Dispatcher: Shutting down...
+[2025-05-15 21:14:56.063] [MarketReplaySim] [3006182] [info] Strategy [BasicStrat_GUI_1]: Shutting down at sim time -9223372036854775808
+[2025-05-15 21:14:56.063] [MarketReplaySim] [3006182] [info] Strategy Thread [BasicStrat_GUI_1]: Exited event loop and shut down.
+[2025-05-15 21:14:56.063] [MarketReplaySim] [3006180] [info] Dispatcher: All threads joined. Shutdown complete.
+[2025-05-15 21:14:56.063] [MarketReplaySim] [3006180] [critical] Exception in simulation task: Failed to open CSV file: ../data/sample_ticks.csv
+[2025-05-15 21:14:56.064] [MarketReplaySim] [3006180] [info] Logger shutting down.

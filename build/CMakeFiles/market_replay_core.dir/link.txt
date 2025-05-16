@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmarket_replay_core.a CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmarket_replay_core.a

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/CMakeFiles/imgui_fc_decl-populate"
+		},
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/CMakeFiles/imgui_fc_decl-populate.rule"
+		},
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/CMakeFiles/imgui_fc_decl-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/imgui_fc_decl-populate-prefix/src/imgui_fc_decl-populate-stamp/imgui_fc_decl-populate-build.rule"
+		},
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/imgui_fc_decl-populate-prefix/src/imgui_fc_decl-populate-stamp/imgui_fc_decl-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/imgui_fc_decl-populate-prefix/src/imgui_fc_decl-populate-stamp/imgui_fc_decl-populate-download.rule"
+		},
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/imgui_fc_decl-populate-prefix/src/imgui_fc_decl-populate-stamp/imgui_fc_decl-populate-install.rule"
+		},
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/imgui_fc_decl-populate-prefix/src/imgui_fc_decl-populate-stamp/imgui_fc_decl-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/imgui_fc_decl-populate-prefix/src/imgui_fc_decl-populate-stamp/imgui_fc_decl-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/imgui_fc_decl-populate-prefix/src/imgui_fc_decl-populate-stamp/imgui_fc_decl-populate-test.rule"
+		},
+		{
+			"file" : "/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/imgui_fc_decl-populate-prefix/src/imgui_fc_decl-populate-stamp/imgui_fc_decl-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui_fc_decl-populate"
+		],
+		"name" : "imgui_fc_decl-populate"
+	}
+}
