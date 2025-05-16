@@ -1,4 +1,11 @@
 # MarketSimulator
+
+![Market Replay Simulator](/assets/market_repla.mov)
+
+## Overview
+This project simulates market replay of trading strategies using historical tick data in realistic, low-latency conditions. This simulator allows the user to test strategies under different market regimes and stress, latency delays, and concurrency — without needing access to high-scale production systems.
+
+## Project Structure
 ```
 market_replay_simulator/
 ├── CMakeLists.txt
@@ -45,4 +52,17 @@ market_replay_simulator/
     └── mock_strategy.hpp
 ```
 
-[![Demo](https://raw.githubusercontent.com/alshodiev/MarketSimulator/main/assets/thumbnail.png)](https://raw.githubusercontent.com/alshodiev/MarketSimulator/main/assets/market_replay.mov)
+## Features
+- Replay historical tick-level data
+- Simulate simple order submission and acknowledgment
+- Run execution strategies via plug-in hooks
+- Log metrics in real-time 
+- Test functionalities using Unit Tests
+
+## Outputs
+- Simulated trades, PnL, and timing metrics
+- Logs of strategy actions (order submits, fills)
+- Latency breakdown (event dispatch, strategy reaction, order ack)
+
+
+
