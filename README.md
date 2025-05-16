@@ -47,6 +47,6 @@ market_replay_simulator/
 
 Here's the demo:
 <video controls>
-  <source src="https://raw.githubusercontent.com/alshodiev/MarketSimulator/main/assets/market_replay.mov" type="video/mp4">
+  <source src="https://github.com/alshodiev/MarketSimulator/raw/refs/heads/main/assets/market_replay.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
