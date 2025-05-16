@@ -1,3 +1,0 @@
-/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/CMakeFiles/imgui_fc_decl-populate.dir
-/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/CMakeFiles/edit_cache.dir
-/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/imgui_fc_decl-subbuild/CMakeFiles/rebuild_cache.dir
