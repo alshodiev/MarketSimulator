@@ -76,127 +76,127 @@ CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.o: CMakeFiles/market_repla
 CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/gui_main.cpp
 CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.o: CMakeFiles/market_replay_sim_gui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/gui_main.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/gui_main.cpp
 
 CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/gui_main.cpp > CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/gui_main.cpp > CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.i
 
 CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/gui_main.cpp -o CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/gui_main.cpp -o CMakeFiles/market_replay_sim_gui.dir/src/gui_main.cpp.s
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.o: CMakeFiles/market_replay_sim_gui.dir/flags.make
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.o: extern/imgui/backends/imgui_impl_glfw.cpp
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.o: CMakeFiles/market_replay_sim_gui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_glfw.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_glfw.cpp
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_glfw.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_glfw.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.i
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_glfw.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_glfw.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_glfw.cpp.s
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.o: CMakeFiles/market_replay_sim_gui.dir/flags.make
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.o: extern/imgui/backends/imgui_impl_opengl3.cpp
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.o: CMakeFiles/market_replay_sim_gui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_opengl3.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_opengl3.cpp
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_opengl3.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_opengl3.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.i
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_opengl3.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/backends/imgui_impl_opengl3.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/backends/imgui_impl_opengl3.cpp.s
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.o: CMakeFiles/market_replay_sim_gui.dir/flags.make
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.o: extern/imgui/imgui.cpp
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.o: CMakeFiles/market_replay_sim_gui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui.cpp
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.i
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui.cpp.s
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.o: CMakeFiles/market_replay_sim_gui.dir/flags.make
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.o: extern/imgui/imgui_draw.cpp
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.o: CMakeFiles/market_replay_sim_gui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_draw.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_draw.cpp
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_draw.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_draw.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.i
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_draw.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_draw.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_draw.cpp.s
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.o: CMakeFiles/market_replay_sim_gui.dir/flags.make
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.o: extern/imgui/imgui_tables.cpp
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.o: CMakeFiles/market_replay_sim_gui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_tables.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_tables.cpp
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_tables.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_tables.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.i
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_tables.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_tables.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_tables.cpp.s
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.o: CMakeFiles/market_replay_sim_gui.dir/flags.make
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.o: extern/imgui/imgui_widgets.cpp
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.o: CMakeFiles/market_replay_sim_gui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_widgets.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_widgets.cpp
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_widgets.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_widgets.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.i
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_widgets.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_widgets.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_widgets.cpp.s
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.o: CMakeFiles/market_replay_sim_gui.dir/flags.make
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.o: extern/imgui/imgui_demo.cpp
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.o: CMakeFiles/market_replay_sim_gui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_demo.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_demo.cpp
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_demo.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_demo.cpp > CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.i
 
 CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_demo.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/extern/imgui/imgui_demo.cpp -o CMakeFiles/market_replay_sim_gui.dir/extern/imgui/imgui_demo.cpp.s
 
 CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.o: CMakeFiles/market_replay_sim_gui.dir/flags.make
 CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/strategy/basic_strategy.cpp
 CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.o: CMakeFiles/market_replay_sim_gui.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/strategy/basic_strategy.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.o -MF CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.o.d -o CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/strategy/basic_strategy.cpp
 
 CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/strategy/basic_strategy.cpp > CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/strategy/basic_strategy.cpp > CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.i
 
 CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/strategy/basic_strategy.cpp -o CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/strategy/basic_strategy.cpp -o CMakeFiles/market_replay_sim_gui.dir/src/strategy/basic_strategy.cpp.s
 
 # Object files for target market_replay_sim_gui
 market_replay_sim_gui_OBJECTS = \

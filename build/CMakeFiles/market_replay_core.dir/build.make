@@ -76,99 +76,99 @@ CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o: CMakeFiles/market_r
 CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/dispatcher.cpp
 CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o: CMakeFiles/market_replay_core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o -MF CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/dispatcher.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o -MF CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/dispatcher.cpp
 
 CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/dispatcher.cpp > CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/dispatcher.cpp > CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.i
 
 CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/dispatcher.cpp -o CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/dispatcher.cpp -o CMakeFiles/market_replay_core.dir/src/core/dispatcher.cpp.s
 
 CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o: CMakeFiles/market_replay_core.dir/flags.make
 CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/latency_model.cpp
 CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o: CMakeFiles/market_replay_core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o -MF CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/latency_model.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o -MF CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/latency_model.cpp
 
 CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/latency_model.cpp > CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/latency_model.cpp > CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.i
 
 CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/latency_model.cpp -o CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/latency_model.cpp -o CMakeFiles/market_replay_core.dir/src/core/latency_model.cpp.s
 
 CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o: CMakeFiles/market_replay_core.dir/flags.make
 CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/order_book.cpp
 CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o: CMakeFiles/market_replay_core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o -MF CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/order_book.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o -MF CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/order_book.cpp
 
 CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/order_book.cpp > CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/order_book.cpp > CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.i
 
 CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/order_book.cpp -o CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/core/order_book.cpp -o CMakeFiles/market_replay_core.dir/src/core/order_book.cpp.s
 
 CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o: CMakeFiles/market_replay_core.dir/flags.make
 CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/io/csv_parser.cpp
 CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o: CMakeFiles/market_replay_core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o -MF CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/io/csv_parser.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o -MF CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/io/csv_parser.cpp
 
 CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/io/csv_parser.cpp > CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/io/csv_parser.cpp > CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.i
 
 CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/io/csv_parser.cpp -o CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/io/csv_parser.cpp -o CMakeFiles/market_replay_core.dir/src/io/csv_parser.cpp.s
 
 CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o: CMakeFiles/market_replay_core.dir/flags.make
 CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/common.cpp
 CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o: CMakeFiles/market_replay_core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o -MF CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/common.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o -MF CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/utils/common.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/common.cpp
 
 CMakeFiles/market_replay_core.dir/src/utils/common.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_core.dir/src/utils/common.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/common.cpp > CMakeFiles/market_replay_core.dir/src/utils/common.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/common.cpp > CMakeFiles/market_replay_core.dir/src/utils/common.cpp.i
 
 CMakeFiles/market_replay_core.dir/src/utils/common.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_core.dir/src/utils/common.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/common.cpp -o CMakeFiles/market_replay_core.dir/src/utils/common.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/common.cpp -o CMakeFiles/market_replay_core.dir/src/utils/common.cpp.s
 
 CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o: CMakeFiles/market_replay_core.dir/flags.make
 CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/logger.cpp
 CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o: CMakeFiles/market_replay_core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o -MF CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/logger.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o -MF CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/logger.cpp
 
 CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/logger.cpp > CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/logger.cpp > CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.i
 
 CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/logger.cpp -o CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/logger.cpp -o CMakeFiles/market_replay_core.dir/src/utils/logger.cpp.s
 
 CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o: CMakeFiles/market_replay_core.dir/flags.make
 CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/metrics.cpp
 CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o: CMakeFiles/market_replay_core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o -MF CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/metrics.cpp
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o -MF CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o.d -o CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/metrics.cpp
 
 CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/metrics.cpp > CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.i
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/metrics.cpp > CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.i
 
 CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/metrics.cpp -o CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.s
+	/usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/src/utils/metrics.cpp -o CMakeFiles/market_replay_core.dir/src/utils/metrics.cpp.s
 
 # Object files for target market_replay_core
 market_replay_core_OBJECTS = \

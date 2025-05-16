@@ -10,10 +10,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.31.5/CMakeSystem.cmake"
   "CMakeLists.txt"
   "spdlog-populate-prefix/tmp/spdlog-populate-mkdirs.cmake"
-  "/usr/local/share/cmake/Modules/CMakeDetermineSystem.cmake"
   "/usr/local/share/cmake/Modules/CMakeGenericSystem.cmake"
   "/usr/local/share/cmake/Modules/CMakeInitializeConfigs.cmake"
-  "/usr/local/share/cmake/Modules/CMakeSystem.cmake.in"
   "/usr/local/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
   "/usr/local/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
   "/usr/local/share/cmake/Modules/ExternalProject.cmake"
@@ -38,7 +36,6 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
-  "CMakeFiles/3.31.5/CMakeSystem.cmake"
   "spdlog-populate-prefix/tmp/spdlog-populate-mkdirs.cmake"
   "spdlog-populate-prefix/tmp/spdlog-populate-gitclone.cmake"
   "spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-gitinfo.txt"

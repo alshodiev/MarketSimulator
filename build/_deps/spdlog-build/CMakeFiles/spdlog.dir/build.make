@@ -76,99 +76,99 @@ _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o: _deps/spdlog-build/CM
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o: _deps/spdlog-src/src/spdlog.cpp
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o -MF CMakeFiles/spdlog.dir/src/spdlog.cpp.o.d -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/spdlog.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o -MF CMakeFiles/spdlog.dir/src/spdlog.cpp.o.d -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/spdlog.cpp
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/spdlog.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/spdlog.cpp > CMakeFiles/spdlog.dir/src/spdlog.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/spdlog.cpp > CMakeFiles/spdlog.dir/src/spdlog.cpp.i
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/spdlog.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/spdlog.cpp -o CMakeFiles/spdlog.dir/src/spdlog.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/spdlog.cpp -o CMakeFiles/spdlog.dir/src/spdlog.cpp.s
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/flags.make
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o: _deps/spdlog-src/src/stdout_sinks.cpp
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/stdout_sinks.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/stdout_sinks.cpp
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/stdout_sinks.cpp > CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/stdout_sinks.cpp > CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.i
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/stdout_sinks.cpp -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/stdout_sinks.cpp -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.s
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/flags.make
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o: _deps/spdlog-src/src/color_sinks.cpp
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/color_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/color_sinks.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/color_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/color_sinks.cpp
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/color_sinks.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/color_sinks.cpp > CMakeFiles/spdlog.dir/src/color_sinks.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/color_sinks.cpp > CMakeFiles/spdlog.dir/src/color_sinks.cpp.i
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/color_sinks.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/color_sinks.cpp -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/color_sinks.cpp -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.s
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/flags.make
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: _deps/spdlog-src/src/file_sinks.cpp
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/file_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/file_sinks.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/file_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/file_sinks.cpp
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/file_sinks.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/file_sinks.cpp > CMakeFiles/spdlog.dir/src/file_sinks.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/file_sinks.cpp > CMakeFiles/spdlog.dir/src/file_sinks.cpp.i
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/file_sinks.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/file_sinks.cpp -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/file_sinks.cpp -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.s
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/flags.make
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o: _deps/spdlog-src/src/async.cpp
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o -MF CMakeFiles/spdlog.dir/src/async.cpp.o.d -o CMakeFiles/spdlog.dir/src/async.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/async.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o -MF CMakeFiles/spdlog.dir/src/async.cpp.o.d -o CMakeFiles/spdlog.dir/src/async.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/async.cpp
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/async.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/async.cpp > CMakeFiles/spdlog.dir/src/async.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/async.cpp > CMakeFiles/spdlog.dir/src/async.cpp.i
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/async.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/async.cpp -o CMakeFiles/spdlog.dir/src/async.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/async.cpp -o CMakeFiles/spdlog.dir/src/async.cpp.s
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/flags.make
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o: _deps/spdlog-src/src/cfg.cpp
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o -MF CMakeFiles/spdlog.dir/src/cfg.cpp.o.d -o CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/cfg.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o -MF CMakeFiles/spdlog.dir/src/cfg.cpp.o.d -o CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/cfg.cpp
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/cfg.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/cfg.cpp > CMakeFiles/spdlog.dir/src/cfg.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/cfg.cpp > CMakeFiles/spdlog.dir/src/cfg.cpp.i
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/cfg.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/cfg.cpp -o CMakeFiles/spdlog.dir/src/cfg.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/cfg.cpp -o CMakeFiles/spdlog.dir/src/cfg.cpp.s
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/flags.make
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o: _deps/spdlog-src/src/bundled_fmtlib_format.cpp
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o: _deps/spdlog-build/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -MF CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o.d -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -MF CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o.d -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp > CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp > CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.i
 
 _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-build && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.s
 
 # Object files for target spdlog
 spdlog_OBJECTS = \

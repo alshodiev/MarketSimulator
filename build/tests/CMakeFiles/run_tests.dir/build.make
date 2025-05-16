@@ -76,71 +76,71 @@ tests/CMakeFiles/run_tests.dir/test_main.cpp.o: tests/CMakeFiles/run_tests.dir/f
 tests/CMakeFiles/run_tests.dir/test_main.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_main.cpp
 tests/CMakeFiles/run_tests.dir/test_main.cpp.o: tests/CMakeFiles/run_tests.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/CMakeFiles/run_tests.dir/test_main.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/run_tests.dir/test_main.cpp.o -MF CMakeFiles/run_tests.dir/test_main.cpp.o.d -o CMakeFiles/run_tests.dir/test_main.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_main.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/run_tests.dir/test_main.cpp.o -MF CMakeFiles/run_tests.dir/test_main.cpp.o.d -o CMakeFiles/run_tests.dir/test_main.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_main.cpp
 
 tests/CMakeFiles/run_tests.dir/test_main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/run_tests.dir/test_main.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_main.cpp > CMakeFiles/run_tests.dir/test_main.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_main.cpp > CMakeFiles/run_tests.dir/test_main.cpp.i
 
 tests/CMakeFiles/run_tests.dir/test_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/run_tests.dir/test_main.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_main.cpp -o CMakeFiles/run_tests.dir/test_main.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_main.cpp -o CMakeFiles/run_tests.dir/test_main.cpp.s
 
 tests/CMakeFiles/run_tests.dir/test_common.cpp.o: tests/CMakeFiles/run_tests.dir/flags.make
 tests/CMakeFiles/run_tests.dir/test_common.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_common.cpp
 tests/CMakeFiles/run_tests.dir/test_common.cpp.o: tests/CMakeFiles/run_tests.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/CMakeFiles/run_tests.dir/test_common.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/run_tests.dir/test_common.cpp.o -MF CMakeFiles/run_tests.dir/test_common.cpp.o.d -o CMakeFiles/run_tests.dir/test_common.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_common.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/run_tests.dir/test_common.cpp.o -MF CMakeFiles/run_tests.dir/test_common.cpp.o.d -o CMakeFiles/run_tests.dir/test_common.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_common.cpp
 
 tests/CMakeFiles/run_tests.dir/test_common.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/run_tests.dir/test_common.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_common.cpp > CMakeFiles/run_tests.dir/test_common.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_common.cpp > CMakeFiles/run_tests.dir/test_common.cpp.i
 
 tests/CMakeFiles/run_tests.dir/test_common.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/run_tests.dir/test_common.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_common.cpp -o CMakeFiles/run_tests.dir/test_common.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_common.cpp -o CMakeFiles/run_tests.dir/test_common.cpp.s
 
 tests/CMakeFiles/run_tests.dir/test_blocking_queue.cpp.o: tests/CMakeFiles/run_tests.dir/flags.make
 tests/CMakeFiles/run_tests.dir/test_blocking_queue.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_blocking_queue.cpp
 tests/CMakeFiles/run_tests.dir/test_blocking_queue.cpp.o: tests/CMakeFiles/run_tests.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tests/CMakeFiles/run_tests.dir/test_blocking_queue.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/run_tests.dir/test_blocking_queue.cpp.o -MF CMakeFiles/run_tests.dir/test_blocking_queue.cpp.o.d -o CMakeFiles/run_tests.dir/test_blocking_queue.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_blocking_queue.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/run_tests.dir/test_blocking_queue.cpp.o -MF CMakeFiles/run_tests.dir/test_blocking_queue.cpp.o.d -o CMakeFiles/run_tests.dir/test_blocking_queue.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_blocking_queue.cpp
 
 tests/CMakeFiles/run_tests.dir/test_blocking_queue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/run_tests.dir/test_blocking_queue.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_blocking_queue.cpp > CMakeFiles/run_tests.dir/test_blocking_queue.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_blocking_queue.cpp > CMakeFiles/run_tests.dir/test_blocking_queue.cpp.i
 
 tests/CMakeFiles/run_tests.dir/test_blocking_queue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/run_tests.dir/test_blocking_queue.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_blocking_queue.cpp -o CMakeFiles/run_tests.dir/test_blocking_queue.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_blocking_queue.cpp -o CMakeFiles/run_tests.dir/test_blocking_queue.cpp.s
 
 tests/CMakeFiles/run_tests.dir/test_latency_model.cpp.o: tests/CMakeFiles/run_tests.dir/flags.make
 tests/CMakeFiles/run_tests.dir/test_latency_model.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_latency_model.cpp
 tests/CMakeFiles/run_tests.dir/test_latency_model.cpp.o: tests/CMakeFiles/run_tests.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/CMakeFiles/run_tests.dir/test_latency_model.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/run_tests.dir/test_latency_model.cpp.o -MF CMakeFiles/run_tests.dir/test_latency_model.cpp.o.d -o CMakeFiles/run_tests.dir/test_latency_model.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_latency_model.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/run_tests.dir/test_latency_model.cpp.o -MF CMakeFiles/run_tests.dir/test_latency_model.cpp.o.d -o CMakeFiles/run_tests.dir/test_latency_model.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_latency_model.cpp
 
 tests/CMakeFiles/run_tests.dir/test_latency_model.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/run_tests.dir/test_latency_model.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_latency_model.cpp > CMakeFiles/run_tests.dir/test_latency_model.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_latency_model.cpp > CMakeFiles/run_tests.dir/test_latency_model.cpp.i
 
 tests/CMakeFiles/run_tests.dir/test_latency_model.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/run_tests.dir/test_latency_model.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_latency_model.cpp -o CMakeFiles/run_tests.dir/test_latency_model.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_latency_model.cpp -o CMakeFiles/run_tests.dir/test_latency_model.cpp.s
 
 tests/CMakeFiles/run_tests.dir/test_csv_parser.cpp.o: tests/CMakeFiles/run_tests.dir/flags.make
 tests/CMakeFiles/run_tests.dir/test_csv_parser.cpp.o: /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_csv_parser.cpp
 tests/CMakeFiles/run_tests.dir/test_csv_parser.cpp.o: tests/CMakeFiles/run_tests.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/alshodiev/Desktop/git_repos/MarketSimulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object tests/CMakeFiles/run_tests.dir/test_csv_parser.cpp.o"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/run_tests.dir/test_csv_parser.cpp.o -MF CMakeFiles/run_tests.dir/test_csv_parser.cpp.o.d -o CMakeFiles/run_tests.dir/test_csv_parser.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_csv_parser.cpp
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/CMakeFiles/run_tests.dir/test_csv_parser.cpp.o -MF CMakeFiles/run_tests.dir/test_csv_parser.cpp.o.d -o CMakeFiles/run_tests.dir/test_csv_parser.cpp.o -c /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_csv_parser.cpp
 
 tests/CMakeFiles/run_tests.dir/test_csv_parser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/run_tests.dir/test_csv_parser.cpp.i"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_csv_parser.cpp > CMakeFiles/run_tests.dir/test_csv_parser.cpp.i
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_csv_parser.cpp > CMakeFiles/run_tests.dir/test_csv_parser.cpp.i
 
 tests/CMakeFiles/run_tests.dir/test_csv_parser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/run_tests.dir/test_csv_parser.cpp.s"
-	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_csv_parser.cpp -o CMakeFiles/run_tests.dir/test_csv_parser.cpp.s
+	cd /Users/alshodiev/Desktop/git_repos/MarketSimulator/build/tests && /usr/local/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alshodiev/Desktop/git_repos/MarketSimulator/tests/test_csv_parser.cpp -o CMakeFiles/run_tests.dir/test_csv_parser.cpp.s
 
 # Object files for target run_tests
 run_tests_OBJECTS = \

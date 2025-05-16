@@ -1,0 +1,17 @@
+# Ignore CMake build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+build/
+cmake-build-*/
+
+# Ignore Makefile build outputs
+*.o
+*.d
+*.a
+*.so
+*.exe
+
+# Ignore temporary files
+*.log
+*.tmp
