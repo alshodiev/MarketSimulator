@@ -45,3 +45,7 @@ market_replay_simulator/
     └── mock_strategy.hpp
 ```
 
+<video controls>
+  <source src="https://raw.githubusercontent.com/alshodiev/MarketSimulator/main/assets/market_replay.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
