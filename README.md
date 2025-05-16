@@ -64,5 +64,7 @@ market_replay_simulator/
 - Logs of strategy actions (order submits, fills)
 - Latency breakdown (event dispatch, strategy reaction, order ack)
 
-
+## Future improvements
+- Add actual strategies that produce buy/sell/hold signals
+- Productionize and improve performance for multi-node setup
 
