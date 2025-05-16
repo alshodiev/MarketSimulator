@@ -1,6 +1,6 @@
 # MarketSimulator
 
-![Market Replay Simulator](/assets/market_repla.mov)
+![Market Replay Simulator](/assets/market_replay.mov)
 
 ## Overview
 This project simulates market replay of trading strategies using historical tick data in realistic, low-latency conditions. This simulator allows the user to test strategies under different market regimes and stress, latency delays, and concurrency — without needing access to high-scale production systems.
