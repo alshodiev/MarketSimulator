@@ -45,5 +45,5 @@ market_replay_simulator/
     └── mock_strategy.hpp
 ```
 
-[![Demo](https://github.com/alshodiev/MarketSimulator/raw/refs/heads/main/assets/market_replay.mov)](https://github.com/alshodiev/MarketSimulator/raw/refs/heads/main/assets/market_replay.mov)
+[![Demo](https://raw.githubusercontent.com/alshodiev/MarketSimulator/main/assets/market_replay.mov)](https://raw.githubusercontent.com/alshodiev/MarketSimulator/main/assets/market_replay.mov)
 
