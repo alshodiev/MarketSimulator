@@ -1,5 +1,4 @@
 # MarketSimulator
-
 ```
 market_replay_simulator/
 ├── CMakeLists.txt
@@ -45,3 +44,4 @@ market_replay_simulator/
     └── test_dispatcher.cpp
     └── mock_strategy.hpp
 ```
+
